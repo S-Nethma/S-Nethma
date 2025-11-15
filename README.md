@@ -1,20 +1,24 @@
-# Hi there 👋, I'm S. Nethma
+# 👋 Hi, I’m Sandali Nethma
 
-🎓 ICT Undergraduate | Web Development | React | SQL | Future Project Manager
+🎓 **ICT Undergraduate | Web Development Enthusiast | React & Firebase Developer | Aspiring Project Manager**
 
 ---
 
-## 🔭 I’m currently working on
-- My portfolio website
-- 2D ICT Game for university project
-- React + Firebase web applications
+## 🔭 Current Work
+- Enhancing **Portfolio Website**
+- Improving **2D ICT Game** project
+- Building web applications with **React + Firebase**
 
-## 🌱 I’m learning
-- Advanced React and Firebase
-- Full-stack web development
-- Project management skills
+---
 
-## 💻 Skills
+## 🌱 I’m Learning
+- Advanced **Full-Stack Web Development**
+- **Project Management & Agile Methodologies**
+- **Database Design and Optimization** (SQL & Firebase)
+
+---
+
+## 💻 Skills & Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -26,9 +30,35 @@
 
 ---
 
-## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/sandali-nethma-5b2328383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: malshisnethma@gmail.com
+## 🌟 Featured Projects
+
+| Project | Type | Your Contribution | Tech | Link |
+|---------|------|-----------------|------|------|
+| **Portfolio Website** | Individual | Designed and developed complete frontend | HTML, CSS, JS | [Repo](https://github.com/S-Nethma/myportfolio) |
+| **Glamour Touch Website** | 1st Year Group Project | Frontend & styling | HTML, CSS, JS | [Repo](https://github.com/S-Nethma/Glamour-Touch) |
+| **Bee Bloom** | Individual | Full project development | HTML, CSS, JS | [Repo](https://github.com/S-Nethma/Bee-Bloom) |
+| **2D Game Website with Backend** | 2nd Year Group Project (Individual Contribution) | Developed backend & database integration | HTML, CSS, JS, Firebase | [Repo](https://github.com/S-Nethma/2D-Web-Backend) |
+| **2D ICT Game** | 2nd Year Group Project | Game logic & programming | Unity, C# | [Repo](https://github.com/S-Nethma/2D-ICT-Game) |
+
+> You can pin these top 5 projects to highlight your work on your profile.
+
+---
+
+## 📈 GitHub Stats
+![S-Nethma GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-Nethma&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandali-nethma-5b2328383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malshisnethma@gmail.com)
+
+---
+
+> “Learning never exhausts the mind.” – Leonardo da Vinci
+
+
+
 
 
 <!--
