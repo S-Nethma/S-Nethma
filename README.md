@@ -37,7 +37,7 @@
 | **Portfolio Website** | Individual | Designed and developed complete frontend | HTML, CSS, JS | [Repo](https://github.com/S-Nethma/myportfolio) |
 | **Glamour Touch Website** | 1st Year Group Project | Frontend & styling | HTML, CSS, JS | [Repo](https://github.com/S-Nethma/Glamour-Touch) |
 | **Bee Bloom** | Individual | Full project development | HTML, CSS, JS | [Repo](https://github.com/S-Nethma/Bee-Bloom) |
-| **2D Game Website with Backend** | 2nd Year Group Project (Individual Contribution) | Developed backend & database integration | HTML, CSS, JS, Firebase | [Repo](https://github.com/S-Nethma/2D-Web-Backend) |
+| **2D Game Website with Backend** | 2nd Year Group Project (Individual Contribution) | Developed backend & database integration | React, Firebase | [Repo](https://github.com/S-Nethma/2D-Web-Backend) |
 | **2D ICT Game** | 2nd Year Group Project | Game logic & programming | Unity, C# | [Repo](https://github.com/S-Nethma/2D-ICT-Game) |
 
 > You can pin these top 5 projects to highlight your work on your profile.
