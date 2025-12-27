@@ -1,77 +1,84 @@
-# 👋 Hi, I’m Sandali Nethma
+# 👋 Hello, I’m Sandali Nethma  
 
-🎓 **ICT Undergraduate | Web Development Enthusiast | React & Firebase Developer | Aspiring Project Manager**
+**ICT Undergraduate | Aspiring Project Manager | Backend & Technical Project Coordinator**
 
----
-
-## 🔭 Current Work
-- Enhancing **Portfolio Website**
-- Improving **2D ICT Game** project
-- Building web applications with **React + Firebase**
+I am an undergraduate in Information and Communication Technology with hands-on experience in **managing and delivering a real-world client project**. I enjoy coordinating development work, handling backend logic, and ensuring smooth collaboration between technical and non-technical stakeholders.
 
 ---
 
-## 🌱 I’m Learning
-- Advanced **Full-Stack Web Development**
-- **Project Management & Agile Methodologies**
-- **Database Design and Optimization** (SQL & Firebase)
+## 🎯 Professional Goal
+To grow as a **Junior Project Manager / Project Coordinator** while contributing technically as a **backend-focused developer**, supporting teams to deliver reliable and user-centered software solutions.  
+
+I am actively **learning Project Management**, completing courses, and gaining knowledge in Agile, Scrum, and task management methodologies to strengthen my coordination and leadership skills.
 
 ---
 
-## 💻 Skills & Technologies
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+## 🚀 Current Project
+![Status](https://img.shields.io/badge/Status-Real%20Client%20Project-4CAF50?style=flat-square)
+![Role](https://img.shields.io/badge/Role-Project%20Coordinator-blue?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend-Owner-orange?style=flat-square)
+![Agile](https://img.shields.io/badge/Methodology-Agile-2E7D32?style=flat-square)
+
+### **Travico – Travel Service Web Application**
+**Type:** Real Client Project  
+**Role:** Project Coordinator & Backend Developer  
+**Collaboration:** Frontend developed collaboratively with a teammate  
+
+Travico is a real-world travel service web application developed for an actual client, focusing on usability, reliability, and structured delivery.
+
+**Key Responsibilities**
+- Planning project tasks, milestones, and feature scope  
+- Designing and implementing backend logic and database structure  
+- Managing API integration and data flow  
+- Collaborating closely on frontend development and UI integration  
+- Communicating with the client to understand requirements and feedback  
+- Ensuring quality, documentation, and on-time delivery  
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Type | Your Contribution | Tech | Link |
-|---------|------|-----------------|------|------|
-| **Portfolio Website** | Individual | Designed and developed complete frontend | HTML, CSS, JS | [Repo](https://github.com/S-Nethma/myportfolio) |
-| **Glamour Touch Website** | 1st Year Group Project | Frontend & styling | HTML, CSS, JS | [Repo](https://github.com/S-Nethma/Glamour-Touch) |
-| **Bee Bloom** | Individual | Full project development | HTML, CSS, JS | [Repo](https://github.com/S-Nethma/Bee-Bloom) |
-| **2D Game Website with Backend** | 2nd Year Group Project (Individual Contribution) | Developed backend & database integration | React, Firebase | [Repo](https://github.com/S-Nethma/2D-Web-Backend) |
-| **2D ICT Game** | 2nd Year Group Project | Game logic & programming | Unity, C# | [Repo](https://github.com/S-Nethma/2D-ICT-Game) |
-
-> You can pin these top 5 projects to highlight your work on your profile.
+## 🧠 Project Management & Learning
+- Currently learning **Project Management fundamentals** and Agile methodologies  
+- Task planning & work breakdown structure (WBS)  
+- Sprint-based coordination and timeline management  
+- Risk identification & issue tracking  
+- Documentation, reporting, and client communication  
+- Continually improving through online courses and practical experience  
 
 ---
 
-## 📈 GitHub Stats
-![S-Nethma GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-Nethma&show_icons=true&theme=radical)
+## 💻 Technical Expertise
+**Backend:** Firebase, SQL  
+**Frontend (Collaborative):** React, HTML, CSS, JavaScript  
+**Tools:** Git, GitHub, VS Code  
+**Additional:** API integration, database design, UI/UX fundamentals  
+
+> My technical ownership of the backend allows me to ensure system reliability while coordinating frontend collaboration effectively.
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandali-nethma-5b2328383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malshisnethma@gmail.com)
+## 📂 Academic & Practical Experience
+
+| Project | Role | Focus |
+|------|------|------|
+| **Travico – Travel Platform** | Project Coordinator & Backend Developer | Client coordination, backend architecture, frontend collaboration |
+| **2D ICT Game** | Team Coordinator | Sprint support, task alignment, testing |
+| **2D Game Website (Backend)** | Backend Coordinator | Database integration & feature planning |
+| **Glamour Touch Website** | Team Member | Requirement understanding & frontend support |
+| **Portfolio Website** | Individual Project | End-to-end planning & execution |
 
 ---
 
-> “Learning never exhausts the mind.” – Leonardo da Vinci
+## 📈 GitHub Activity & Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-Nethma&show_icons=true&count_private=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-Nethma&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Nethma&layout=compact&theme=radical)
 
+---
 
+## 🤝 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandali%20Nethma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandali-nethma-5b2328383)
+[![Email](https://img.shields.io/badge/Email-malshisnethma@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:malshisnethma@gmail.com)
 
+---
 
-
-<!--
-**S-Nethma/S-Nethma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *“Great projects succeed when technical expertise, clear coordination, and continuous learning work together.”*
